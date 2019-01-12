@@ -1,4 +1,3 @@
-
 # Hacemos en un archivo nuestra clase para imprimir en consola los datos
 class Mostrar:
     # Iniciamos el constructor con los datos aunque se podría hacer sin el
